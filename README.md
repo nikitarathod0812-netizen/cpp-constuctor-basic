@@ -1,10 +1,4 @@
 
-what I used 
-*class
-*object
-*constructors 
-*data members 
-*cout
 
 # cpp-constuctor-basic
 basic cpp program to understand contructors
